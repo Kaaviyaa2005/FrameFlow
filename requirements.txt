@@ -4,3 +4,4 @@ python-multipart>=0.0.9
 edge-tts>=6.1.12
 faster-whisper>=1.0.3,<2.0
 requests>=2.31,<3.0
+pydantic
