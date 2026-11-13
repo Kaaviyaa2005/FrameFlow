@@ -1,4 +1,4 @@
-# FlameFlow — Script and Voiceover to B-roll Video Engine
+# Incubrix Pro — Script and Voiceover to B-roll Video Engine
 
 A local-first FastAPI + FFmpeg prototype for turning a script or recorded voiceover into a captioned B-roll video. It includes a responsive editing UI, local clip selection, live microphone recording, automatic speech transcription, and downloadable video metadata.
 
